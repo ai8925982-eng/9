@@ -1,0 +1,3 @@
+numpy>=1.24
+# reads mp3 / flac / ogg / aiff vocals; ships its own libsndfile on Windows (no ffmpeg needed)
+soundfile>=0.12.1
